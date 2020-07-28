@@ -1,0 +1,8 @@
+[ERROR] 2020-07-27 18:04:18,642 | PasswordChecker: java.lang.Exception: password should exist
+[ERROR] 2020-07-28 13:48:32,172 | PasswordChecker: java.lang.Exception: password should exist
+[ERROR] 2020-07-28 13:51:27,172 | PasswordChecker: java.lang.Exception: password should exist
+[DEBUG] 2020-07-28 13:51:27,179 | PasswordChecker: User password is not ok
+[DEBUG] 2020-07-28 13:59:32,056 | PasswordChecker: Password is valid
+[DEBUG] 2020-07-28 13:59:32,060 | PasswordChecker: true
+[DEBUG] 2020-07-28 13:59:32,060 | PasswordChecker: User password is ok
+[DEBUG] 2020-07-28 13:59:32,061 | PasswordChecker: Password is Okay
